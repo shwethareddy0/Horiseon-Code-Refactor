@@ -47,17 +47,12 @@ a {
   text-decoration: none;
 }
 
-p {
-  font-size: 16px;
+.hero {
+  margin-bottom: 25px;
 }
 
-.hero {
-  height: 800px;
-  width: 100%;
-  margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
-  background-size: cover;
-  background-position: center;
+p {
+  font-size: 16px;
 }
 
 .float-left {
