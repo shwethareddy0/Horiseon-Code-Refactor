@@ -18,7 +18,7 @@ Horiseon Social Solution Services is the expert in providing solutions to the we
 - Credits
 - License
 
-### Installation
+## Installation
 
 - Create a new repository on your GitHub account.
 - Clone this repository to modify the files and images as required.
@@ -27,11 +27,11 @@ Horiseon Social Solution Services is the expert in providing solutions to the we
 
 ## Usage
 
-This project can be used in any web browser on any devices including the mobile devices.
+This project can be used in any web browser or on any devices including the mobile devices.
 
 The following image is the demo screenshot of the deployed application.
 
-![Demo screenshot](./assets/images/Showcase.gif)
+![Demo screenshot](./assets/images/demo-screenshot.gif)
 
 Following is the code snippet of the application page.
 
