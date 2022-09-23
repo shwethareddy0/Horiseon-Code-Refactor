@@ -35,7 +35,7 @@ The following image is the demo screenshot of the deployed application.
 
 ![Demo screenshot](./assets/images/demo-screenshot.gif)
 
-Following is the code snippet of the application page.
+Following is a code snippet of the application page.
 
 ```html5
 <section
@@ -72,4 +72,4 @@ Following is the code snippet of the application page.
 
 ## License
 
-Horiseon Social Solution Services is licensed under the [MIT](LICENSE.txt) license.
+This project is licensed under the [MIT](LICENSE.txt) license.
