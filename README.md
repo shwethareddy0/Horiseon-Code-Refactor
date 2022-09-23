@@ -4,7 +4,7 @@
 
 Horiseon Social Solution Services is the expert in providing solutions to the websites in optimizating their ranking and performance in the search results and also offers social media marketing services.
 
-The link to the deployed application is ![here](https://shwethareddy0.github.io/Horiseon-Code-Refactor/).
+Here is the link to the deployed application https://shwethareddy0.github.io/Horiseon-Code-Refactor/
 
 ### Features
 
