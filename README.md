@@ -13,11 +13,10 @@ Horiseon Social Solution Services is the expert in providing solutions to the we
 ## Table of Contents
 
 - Installation
-- Technologies Used
 - Usage
+- Technologies Used
 - Credits
 - License
-- Links
 
 ### Installation
 
@@ -26,17 +25,15 @@ Horiseon Social Solution Services is the expert in providing solutions to the we
 - Push your changes to your GitHub repository.
 - Deploy to your preferred hosting service.
 
-## Technologies Used
-
-- HTML5
-- CSS
-- Git
-- GitHub
-- GitHub Pages
-
 ## Usage
 
-Here is the code snippet of the application
+This project can be used in any web browser on any devices including the mobile devices.
+
+The following image is the demo screenshot of the deployed application.
+
+![Demo screenshot](./assets/images/Showcase.gif)
+
+Following is the code snippet of the application page.
 
 ```html5
 <section
@@ -58,6 +55,14 @@ Here is the code snippet of the application
       </section>
 
 ```
+
+## Technologies Used
+
+- HTML5
+- CSS
+- Git
+- GitHub
+- GitHub Pages
 
 ## Credits
 
